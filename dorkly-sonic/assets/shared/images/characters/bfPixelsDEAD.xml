@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="bfPixelsDEAD.png">
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfPixelsDEADCLEAN.png">
 	<!-- if you read this you're epic. -->
 	<!-- manual tweaks done on BF Dies pixel last 2 frames -->
 	<SubTexture name="BF Dies pixel0000" x="0" y="0" width="90" height="81"/>

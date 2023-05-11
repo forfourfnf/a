@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="DADDY_DEAREST.png">
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DADDY_DEARESTCLEAN.png">
 	<!-- Created with Adobe Animate version 20.0.0.17400 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Dad Sing Note DOWN0000" x="1369" y="0" width="470" height="730" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
@@ -9,25 +9,7 @@
 	<SubTexture name="Dad Sing Note DOWN0004" x="1839" y="0" width="462" height="735" frameX="-4" frameY="0" frameWidth="470" frameHeight="735"/>
 	<SubTexture name="Dad Sing Note DOWN0005" x="1839" y="0" width="462" height="735" frameX="-4" frameY="0" frameWidth="470" frameHeight="735"/>
 	<SubTexture name="Dad Sing Note DOWN0006" x="1839" y="0" width="462" height="735" frameX="-4" frameY="0" frameWidth="470" frameHeight="735"/>
-	<SubTexture name="Dad Sing Note LEFT0000" x="843" y="793" width="370" height="777" frameX="0" frameY="-1" frameWidth="370" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0001" x="843" y="793" width="370" height="777" frameX="0" frameY="-1" frameWidth="370" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0002" x="2726" y="921" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0003" x="2726" y="921" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0004" x="2307" y="927" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0005" x="2307" y="927" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0006" x="2726" y="921" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0007" x="2726" y="921" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0008" x="2307" y="927" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0009" x="2307" y="927" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0010" x="2726" y="921" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0011" x="2726" y="921" width="375" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0012" x="2307" y="927" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0013" x="2307" y="927" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0014" x="2726" y="921" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0015" x="2726" y="921" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0016" x="2307" y="927" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0017" x="2307" y="927" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
-	<SubTexture name="Dad Sing Note LEFT0018" x="2726" y="921" width="373" height="777" frameX="0" frameY="0" frameWidth="373" frameHeight="777"/>
+	<SubTexture name="Dad Sing Note LEFT0000" x="843" y="793" width="370" height="777"/>
 	<SubTexture name="Dad Sing Note RIGHT0000" x="0" y="0" width="465" height="792" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
 	<SubTexture name="Dad Sing Note RIGHT0001" x="0" y="0" width="465" height="792" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
 	<SubTexture name="Dad Sing Note RIGHT0002" x="465" y="0" width="452" height="793" frameX="0" frameY="0" frameWidth="465" frameHeight="793"/>
